@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\InstallPack\\arduino-1.8.5\\tools\\**",
+                "D:\\InstallPack\\arduino-1.8.5\\hardware\\arduino\\avr\\**"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
